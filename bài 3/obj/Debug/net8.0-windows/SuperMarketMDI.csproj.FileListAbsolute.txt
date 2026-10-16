@@ -1,0 +1,30 @@
+D:\Báo Cáo Năm 3_CNTT\SupermarketMDI\bin\Debug\net8.0-windows\SuperMarketMDI.exe
+D:\Báo Cáo Năm 3_CNTT\SupermarketMDI\bin\Debug\net8.0-windows\SuperMarketMDI.deps.json
+D:\Báo Cáo Năm 3_CNTT\SupermarketMDI\bin\Debug\net8.0-windows\SuperMarketMDI.runtimeconfig.json
+D:\Báo Cáo Năm 3_CNTT\SupermarketMDI\bin\Debug\net8.0-windows\SuperMarketMDI.dll
+D:\Báo Cáo Năm 3_CNTT\SupermarketMDI\bin\Debug\net8.0-windows\SuperMarketMDI.pdb
+D:\Báo Cáo Năm 3_CNTT\SupermarketMDI\obj\Debug\net8.0-windows\SuperMarketMDI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Báo Cáo Năm 3_CNTT\SupermarketMDI\obj\Debug\net8.0-windows\SuperMarketMDI.AssemblyInfoInputs.cache
+D:\Báo Cáo Năm 3_CNTT\SupermarketMDI\obj\Debug\net8.0-windows\SuperMarketMDI.AssemblyInfo.cs
+D:\Báo Cáo Năm 3_CNTT\SupermarketMDI\obj\Debug\net8.0-windows\SuperMarketMDI.csproj.CoreCompileInputs.cache
+D:\Báo Cáo Năm 3_CNTT\SupermarketMDI\obj\Debug\net8.0-windows\SuperMarketMDI.dll
+D:\Báo Cáo Năm 3_CNTT\SupermarketMDI\obj\Debug\net8.0-windows\refint\SuperMarketMDI.dll
+D:\Báo Cáo Năm 3_CNTT\SupermarketMDI\obj\Debug\net8.0-windows\SuperMarketMDI.pdb
+D:\Báo Cáo Năm 3_CNTT\SupermarketMDI\obj\Debug\net8.0-windows\SuperMarketMDI.genruntimeconfig.cache
+D:\Báo Cáo Năm 3_CNTT\SupermarketMDI\obj\Debug\net8.0-windows\ref\SuperMarketMDI.dll
+D:\Báo Cáo Năm 3_CNTT\SupermarketMDI\obj\Debug\net8.0-windows\SuperMar.FA374012.Up2Date
+D:\Báo Cáo Năm 3_CNTT\bài tập 16-10\bài 3\bin\Debug\net8.0-windows\SuperMarketMDI.exe
+D:\Báo Cáo Năm 3_CNTT\bài tập 16-10\bài 3\bin\Debug\net8.0-windows\SuperMarketMDI.deps.json
+D:\Báo Cáo Năm 3_CNTT\bài tập 16-10\bài 3\bin\Debug\net8.0-windows\SuperMarketMDI.runtimeconfig.json
+D:\Báo Cáo Năm 3_CNTT\bài tập 16-10\bài 3\bin\Debug\net8.0-windows\SuperMarketMDI.dll
+D:\Báo Cáo Năm 3_CNTT\bài tập 16-10\bài 3\bin\Debug\net8.0-windows\SuperMarketMDI.pdb
+D:\Báo Cáo Năm 3_CNTT\bài tập 16-10\bài 3\obj\Debug\net8.0-windows\SuperMarketMDI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Báo Cáo Năm 3_CNTT\bài tập 16-10\bài 3\obj\Debug\net8.0-windows\SuperMarketMDI.AssemblyInfoInputs.cache
+D:\Báo Cáo Năm 3_CNTT\bài tập 16-10\bài 3\obj\Debug\net8.0-windows\SuperMarketMDI.AssemblyInfo.cs
+D:\Báo Cáo Năm 3_CNTT\bài tập 16-10\bài 3\obj\Debug\net8.0-windows\SuperMarketMDI.csproj.CoreCompileInputs.cache
+D:\Báo Cáo Năm 3_CNTT\bài tập 16-10\bài 3\obj\Debug\net8.0-windows\SuperMarketMDI.dll
+D:\Báo Cáo Năm 3_CNTT\bài tập 16-10\bài 3\obj\Debug\net8.0-windows\refint\SuperMarketMDI.dll
+D:\Báo Cáo Năm 3_CNTT\bài tập 16-10\bài 3\obj\Debug\net8.0-windows\SuperMarketMDI.pdb
+D:\Báo Cáo Năm 3_CNTT\bài tập 16-10\bài 3\obj\Debug\net8.0-windows\SuperMarketMDI.genruntimeconfig.cache
+D:\Báo Cáo Năm 3_CNTT\bài tập 16-10\bài 3\obj\Debug\net8.0-windows\ref\SuperMarketMDI.dll
+D:\Báo Cáo Năm 3_CNTT\bài tập 16-10\bài 3\obj\Debug\net8.0-windows\SuperMar.FA374012.Up2Date

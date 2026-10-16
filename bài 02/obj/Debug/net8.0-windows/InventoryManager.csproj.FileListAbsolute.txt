@@ -1,0 +1,49 @@
+D:\Báo Cáo Năm 3_CNTT\InventoryManager\bin\Debug\net8.0-windows\InventoryManager.exe
+D:\Báo Cáo Năm 3_CNTT\InventoryManager\bin\Debug\net8.0-windows\InventoryManager.deps.json
+D:\Báo Cáo Năm 3_CNTT\InventoryManager\bin\Debug\net8.0-windows\InventoryManager.runtimeconfig.json
+D:\Báo Cáo Năm 3_CNTT\InventoryManager\bin\Debug\net8.0-windows\InventoryManager.dll
+D:\Báo Cáo Năm 3_CNTT\InventoryManager\bin\Debug\net8.0-windows\InventoryManager.pdb
+D:\Báo Cáo Năm 3_CNTT\InventoryManager\obj\Debug\net8.0-windows\InventoryManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Báo Cáo Năm 3_CNTT\InventoryManager\obj\Debug\net8.0-windows\InventoryManager.AssemblyInfoInputs.cache
+D:\Báo Cáo Năm 3_CNTT\InventoryManager\obj\Debug\net8.0-windows\InventoryManager.AssemblyInfo.cs
+D:\Báo Cáo Năm 3_CNTT\InventoryManager\obj\Debug\net8.0-windows\InventoryManager.csproj.CoreCompileInputs.cache
+D:\Báo Cáo Năm 3_CNTT\InventoryManager\obj\Debug\net8.0-windows\InventoryManager.dll
+D:\Báo Cáo Năm 3_CNTT\InventoryManager\obj\Debug\net8.0-windows\refint\InventoryManager.dll
+D:\Báo Cáo Năm 3_CNTT\InventoryManager\obj\Debug\net8.0-windows\InventoryManager.pdb
+D:\Báo Cáo Năm 3_CNTT\InventoryManager\obj\Debug\net8.0-windows\InventoryManager.genruntimeconfig.cache
+D:\Báo Cáo Năm 3_CNTT\InventoryManager\obj\Debug\net8.0-windows\ref\InventoryManager.dll
+D:\Báo Cáo Năm 3_CNTT\InventoryManager\obj\Debug\net8.0-windows\Inventor.C89416D4.Up2Date
+D:\Báo Cáo Năm 3_CNTT\bài tập 16-10\InventoryManager\obj\Debug\net8.0-windows\InventoryManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Báo Cáo Năm 3_CNTT\bài tập 16-10\InventoryManager\obj\Debug\net8.0-windows\InventoryManager.AssemblyInfoInputs.cache
+D:\Báo Cáo Năm 3_CNTT\bài tập 16-10\InventoryManager\obj\Debug\net8.0-windows\InventoryManager.AssemblyInfo.cs
+D:\Báo Cáo Năm 3_CNTT\bài tập 16-10\InventoryManager\obj\Debug\net8.0-windows\InventoryManager.csproj.CoreCompileInputs.cache
+D:\Báo Cáo Năm 3_CNTT\bài tập 16-10\InventoryManager\obj\Debug\net8.0-windows\InventoryManager.dll
+D:\Báo Cáo Năm 3_CNTT\bài tập 16-10\InventoryManager\obj\Debug\net8.0-windows\refint\InventoryManager.dll
+D:\Báo Cáo Năm 3_CNTT\bài tập 16-10\InventoryManager\obj\Debug\net8.0-windows\InventoryManager.pdb
+D:\Báo Cáo Năm 3_CNTT\bài tập 16-10\InventoryManager\bin\Debug\net8.0-windows\InventoryManager.exe
+D:\Báo Cáo Năm 3_CNTT\bài tập 16-10\InventoryManager\bin\Debug\net8.0-windows\InventoryManager.deps.json
+D:\Báo Cáo Năm 3_CNTT\bài tập 16-10\InventoryManager\bin\Debug\net8.0-windows\InventoryManager.runtimeconfig.json
+D:\Báo Cáo Năm 3_CNTT\bài tập 16-10\InventoryManager\bin\Debug\net8.0-windows\InventoryManager.dll
+D:\Báo Cáo Năm 3_CNTT\bài tập 16-10\InventoryManager\bin\Debug\net8.0-windows\InventoryManager.pdb
+D:\Báo Cáo Năm 3_CNTT\bài tập 16-10\InventoryManager\obj\Debug\net8.0-windows\InventoryManager.frmInventoryManager.resources
+D:\Báo Cáo Năm 3_CNTT\bài tập 16-10\InventoryManager\obj\Debug\net8.0-windows\InventoryManager.csproj.GenerateResource.cache
+D:\Báo Cáo Năm 3_CNTT\bài tập 16-10\InventoryManager\obj\Debug\net8.0-windows\InventoryManager.genruntimeconfig.cache
+D:\Báo Cáo Năm 3_CNTT\bài tập 16-10\InventoryManager\obj\Debug\net8.0-windows\ref\InventoryManager.dll
+D:\Báo Cáo Năm 3_CNTT\bài tập 16-10\InventoryManager\obj\Debug\net8.0-windows\Inventor.C89416D4.Up2Date
+D:\Báo Cáo Năm 3_CNTT\bài tập 16-10\bài 02\bin\Debug\net8.0-windows\InventoryManager.exe
+D:\Báo Cáo Năm 3_CNTT\bài tập 16-10\bài 02\bin\Debug\net8.0-windows\InventoryManager.deps.json
+D:\Báo Cáo Năm 3_CNTT\bài tập 16-10\bài 02\bin\Debug\net8.0-windows\InventoryManager.runtimeconfig.json
+D:\Báo Cáo Năm 3_CNTT\bài tập 16-10\bài 02\bin\Debug\net8.0-windows\InventoryManager.dll
+D:\Báo Cáo Năm 3_CNTT\bài tập 16-10\bài 02\bin\Debug\net8.0-windows\InventoryManager.pdb
+D:\Báo Cáo Năm 3_CNTT\bài tập 16-10\bài 02\obj\Debug\net8.0-windows\InventoryManager.frmInventoryManager.resources
+D:\Báo Cáo Năm 3_CNTT\bài tập 16-10\bài 02\obj\Debug\net8.0-windows\InventoryManager.csproj.GenerateResource.cache
+D:\Báo Cáo Năm 3_CNTT\bài tập 16-10\bài 02\obj\Debug\net8.0-windows\InventoryManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Báo Cáo Năm 3_CNTT\bài tập 16-10\bài 02\obj\Debug\net8.0-windows\InventoryManager.AssemblyInfoInputs.cache
+D:\Báo Cáo Năm 3_CNTT\bài tập 16-10\bài 02\obj\Debug\net8.0-windows\InventoryManager.AssemblyInfo.cs
+D:\Báo Cáo Năm 3_CNTT\bài tập 16-10\bài 02\obj\Debug\net8.0-windows\InventoryManager.csproj.CoreCompileInputs.cache
+D:\Báo Cáo Năm 3_CNTT\bài tập 16-10\bài 02\obj\Debug\net8.0-windows\InventoryManager.dll
+D:\Báo Cáo Năm 3_CNTT\bài tập 16-10\bài 02\obj\Debug\net8.0-windows\refint\InventoryManager.dll
+D:\Báo Cáo Năm 3_CNTT\bài tập 16-10\bài 02\obj\Debug\net8.0-windows\InventoryManager.pdb
+D:\Báo Cáo Năm 3_CNTT\bài tập 16-10\bài 02\obj\Debug\net8.0-windows\InventoryManager.genruntimeconfig.cache
+D:\Báo Cáo Năm 3_CNTT\bài tập 16-10\bài 02\obj\Debug\net8.0-windows\ref\InventoryManager.dll
+D:\Báo Cáo Năm 3_CNTT\bài tập 16-10\bài 02\obj\Debug\net8.0-windows\Inventor.C89416D4.Up2Date
